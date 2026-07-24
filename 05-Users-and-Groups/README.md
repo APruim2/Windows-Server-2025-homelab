@@ -34,15 +34,11 @@ Create users, organizational units, and security groups to simulate a business e
 
 ### Organizational Units
 
-![OU](ou-structure.png)
+![OU](DC01OUpng)
 
 ### User Accounts
 
 ![Users](DC01UserCreation.png)
-
-### Security Groups
-
-![Groups](security-groups.png)
 
 ### Group Membership
 
