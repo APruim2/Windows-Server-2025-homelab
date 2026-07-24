@@ -39,18 +39,18 @@ Networking
 
 ### DC01 Hardware Configuration
 
-![DC01 Settings](01-VirtualBox/DC01CPU.png) 
-![DC01 Settings](01-VirtualBox/DC01Ram.png) 
-![DC01 Settings](01-VirtualBox/DC01Storage.png)
+![DC01 Settings](DC01CPU.png) 
+![DC01 Settings](DC01Ram.png) 
+![DC01 Settings](DC01Storage.png)
 
 ### DC01 Network Adapters
 
-![DC01 Network](01-VirtualBox/DC01NETADP1.png)
-![DC01 Network 2 ](01-VirtualBox/DC01NETADP2.png)
+![DC01 Network](DC01NETADP1.png)
+![DC01 Network 2 ](DC01NETADP2.png)
 
 ### PC01 Network Adapter
 
-![PC01 Network](01-VirtualBox/PC01NETADP.png)
+![PC01 Network](PC01NETADP.png)
 
 ## Skills Demonstrated
 
