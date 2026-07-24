@@ -32,7 +32,7 @@ Verified:
 
 ### Logon Server
 
-![Logon Server](logonserver.png)
+![Logon Server](PC01LGONServer.png)
 
 ## Skills Demonstrated
 
