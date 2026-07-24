@@ -26,7 +26,7 @@ DC01
 
 ### Active Directory
 
-![ADUC](DC01AADS.png)
+![ADUC](DC01ADDS.png)
 
 ### DNS Manager
 
