@@ -15,15 +15,15 @@ Install and configure Windows Server 2025 to prepare it for Active Directory dep
 
 ### Server Manager
 
-![Server Manager](server-manager.png)
+![Server Manager](DC01SERVMAN.png)
 
 ### Server Name
 
-![Computer Name](rename-dc01.png)
+![Computer Name](DC01SYSINFO.png)
 
 ### Windows Version
 
-![Windows Version](windows-version.png)
+![Windows Version](DC01Desktop.png)
 
 ## Skills Demonstrated
 
