@@ -27,7 +27,6 @@ Create users, organizational units, and security groups to simulate a business e
 
 - Created Organizational Units
 - Created user accounts
-- Created security groups
 - Assigned users to groups
 
 ## Screenshots
@@ -48,5 +47,4 @@ Create users, organizational units, and security groups to simulate a business e
 
 - Active Directory administration
 - User management
-- Security groups
 - Organizational Units
